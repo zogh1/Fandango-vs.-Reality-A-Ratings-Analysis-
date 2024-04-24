@@ -22,5 +22,5 @@ To run the analysis locally, follow these steps:
 
 Clone this repository to your local machine.
 Install the required Python packages listed in requirements.txt.
-Open and run the Jupyter Notebook (analysis.ipynb) to execute the analysis.
+Open and run the Jupyter Notebook
 
